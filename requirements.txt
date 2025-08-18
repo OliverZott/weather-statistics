@@ -1,0 +1,18 @@
+# Jupyter
+jupyterlab
+IPython
+
+
+# Plotting
+matplotlib
+seaborn
+
+# math^
+pandas
+numpy
+
+# Tools
+ruff # formatter, linter
+
+# Machine learning
+scikit-learn # tools for predictive data analysis
