@@ -7,7 +7,7 @@ IPython
 matplotlib
 seaborn
 
-# math^
+# Math
 pandas
 numpy
 
